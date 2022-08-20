@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <PackageManifest Version="2.0.0" xmlns="http://schemas.microsoft.com/developer/vsx-schema/2011" xmlns:d="http://schemas.microsoft.com/developer/vsx-schema-design/2011">
     <Metadata>
-        <Identity Id="9d3d5e01-1eec-4a92-8495-09b79a8f5621" Version="1.0.0.0" Language="en-US" Publisher="Tajko" />
+        <Identity Id="9d3d5e01-1eec-4a92-8495-09b79a8f5721" Version="1.0.0.0" Language="en-US" Publisher="Tajko" />
         <DisplayName>RegionSnippet</DisplayName>
         <Description xml:space="preserve">Add some default regions like Propeties, Commands, Constructors, Methods, Main, Events, Other</Description>
         <MoreInfo>https://github.com/Tajko725/RegionSnippet</MoreInfo>
